@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament, setting forth the grounds and reasons, that necessitate them at this time to take up defensive arms for the preservation of His Majesties person, the maintenance of the true religion, the laws and liberties of this kingdom, and the power and priviledge of Parliament. Ordered by the Commons in Parliament, that this declaration be forthwith printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82701</idno>
+            <idno type="STC">Wing E1450</idno>
+            <idno type="STC">Thomason E108_42</idno>
+            <idno type="STC">ESTC R1976</idno>
+            <idno type="EEBO-CITATION">99860734</idno>
+            <idno type="PROQUEST">99860734</idno>
+            <idno type="VID">112859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112859)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament, setting forth the grounds and reasons, that necessitate them at this time to take up defensive arms for the preservation of His Majesties person, the maintenance of the true religion, the laws and liberties of this kingdom, and the power and priviledge of Parliament. Ordered by the Commons in Parliament, that this declaration be forthwith printed and published. Hen. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>August 3. London, Printed for Edward Husbands, and Iohn Franck,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other editions have titles "A declaration .. setting forth the innumerable plots," (Wing 2nd ed., 1994: E1453); "A declaration .. setting forth the severall plots," (Wing 2nd ed., 1994: E1454) "A declaration .. shewing the imminent danger" (Wing 2nd ed., 1994 E1455).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112859:1"/>
+            <pb facs="tcp:112859:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Lords and Commons Aſſembled in PARLIAMENT, Setting forth the Grounds and Rea<g ref="char:EOLhyphen"/>ſons, that neceſſitate them at this time to take up defenſive Arms for the Preſervation of His Majeſties Perſon, The maintenance of the true Re<g ref="char:EOLhyphen"/>ligion, The Laws and Liberties of this King<g ref="char:EOLhyphen"/>dom, And the Power and Priviledge of PARLIAMENT.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <p>Ordered by the Commons in Parliament, That this Declaration be forth with Printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſinge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Auguſt</hi> 3.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husbands,</hi> and <hi>Iohn Franck.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:112859:2"/>
+            <pb n="3" facs="tcp:112859:2"/>
+            <head>A Declaration of the Lords and Commons now Aſſembled in PARLIAMENT.</head>
+            <p>WE the Lords and Commons in Parliament aſſembled, Having taken into ſerious conſideration, the pre<g ref="char:EOLhyphen"/>ſent State and Condition of imminent danger, in which the Kingdom now ſtands, by reaſon of a malignant Par<g ref="char:EOLhyphen"/>tie, prevailing with His Majeſtie, putting Him upon violent and perillous wayes, and now in Arms againſt us, to the hazard<g ref="char:EOLhyphen"/>ing of His Majeſties Perſon, and for the oppreſsion of the true Religion, The Laws and Liberties of this Kingdom, and the Power and Priviledge of Parliament; all which, every honeſt man is bound to defend; eſpecially thoſe who have taken the late Proteſtation, by which they are more particularly tied unto it, and the more anſwerable before God, ſhould they neglect it: Wherefore, we finding our ſelves ingaged in a neceſſity, to take up Arms likewiſe, for the defence of theſe, which otherwiſe muſt ſuffer and periſh; And having uſed all good wayes and
+<pb n="4" facs="tcp:112859:3"/>
+means to prevent extremities, and preſerve the peace of the Kingdom (which good indeavours of ours, the malignity of our enemies hath rendered altogether ſucceſſeleſſe and vain;) Do now think fit to give this accompt unto the World, to be a ſatisfaction unto all men, of the juſtice of our proceedings; and a warning unto thoſe, who are involved in the ſame danger with us, to let them ſee the neceſsity, and duty which lyes upon them, to ſave themſelves, their Religion, and Country; For which purpoſe, we ſet out this enſuing Declaration.</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat it appears by the Anſwer which His Majeſty hath given to the humble Peti<g ref="char:EOLhyphen"/>tion for peace, preſented unto Him by both Houſes of Parliament, and thoſe demands which He makes, That the deſigne which hath been ſo long carried on to alter the frame and conſtitution of this Government, both in Church and State, is now come to ripeneſſe; and the Contrivers of it, conceive themſelves arrived to that Condition of ſtrength, That they ſhall be able to put it in preſent execution.</p>
+            <p>For, What elſe can be ſignified by the demanding of <hi>Hull,</hi> the Fleet, and the Magazine to be immediate<g ref="char:EOLhyphen"/>ly delivered up, All our preparations of force to ceaſe, And the defenſive Arms of the Parliament to be laid down, And the Parliament to be adiourned to another place; then, That we ſhould out of the ſenſe of our own inability to make reſiſtance, yeild our
+<pb n="5" facs="tcp:112859:3"/>
+ſelves to the cruell Mercy of thoſe who have poſſeſſed the King againſt us, and incited Him to violate all the Priviledges, and revile the Perſons and Proceedings of the Parliament; or elſe, if (as it cannot be other<g ref="char:EOLhyphen"/>wiſe conceived) we do not grant what is ſo unreaſon<g ref="char:EOLhyphen"/>able and deſtructive, forthwith to bring on that force which is prepared againſt us, by the concurrence and aſſiſtance of Papiſts, an ambitious and diſcontented Clergy, Delinquents obnoxious to the juſtice of Parliament; and ſome ill affected Perſons of the Nobility and Gentry; who out of their deſire of a diſſolute liberty, apprehend, and would keep off the Reformation intended by the Parliament.</p>
+            <p>Theſe Perſons have conſpired together to ruine this Parliament, which alone hath ſet a ſtop to that violence ſo long intended, and often attempted, for the Alteration of Religion, and ſubverſion of the Laws and Liberties of the Kingdom.</p>
+            <p>How farre we were plunged in a miſerable expecta<g ref="char:EOLhyphen"/>tion of moſt evill dayes, and how faſt this growing miſchief prevailed upon us before the Parliament, needs not now be declared, It being ſo freſh and bleeding in every mans memory. Religion was made but forme, and outſide; and thoſe who made conſcience to maintain the ſubſtance and purity of it, whether Clergy, or others, were diſcountenanced and oppreſſed, as the great Enemies of the State. The Laws were no defence, nor protection of any
+<pb n="6" facs="tcp:112859:4"/>
+mans right, All was ſubject to will, and power, which impoſed what payments they thought fit, to drain the Subjects purſe, and ſupply thoſe neceſſities, which their ill Councells had brought upon the King, or gratifie ſuch as were inſtruments in promoting thoſe illegall, and oppreſſive courſes. They who yeilded and complied, were countenanced and advanced; all others diſgraced and kept under: That ſo mens mindes made poor and baſe, and their Liberties loſt and gone, they might be ready to let go their Religi<g ref="char:EOLhyphen"/>on, whenſoever it ſhould be reſolved to alter it: Which was, and ſtill is the great deſigne, and all elſe made uſe of, but as inſtrumentary and ſubſervient to it.</p>
+            <p>When they conceived the way to be ſufficiently prepared, They at laſt reſolved to put on their Maſter<g ref="char:EOLhyphen"/>piece in <hi>Scotland,</hi> (where the ſame method had been followed) and more boldly to unmask themſelves, in impoſing upon them a Popiſh ſervice Book, for well they knew the ſame Fate attended both Kingdoms, and Religion could not be altered in the one, without the other. God raiſed the Spirits of that Nation to oppoſe it, with ſo much zeal and indignation, That it kindled ſuch a flame, as no expedient could be found, but a Parliament here, to quench it.</p>
+            <p>This neceſsity brought on this Parliament, and the ſame neceſsity gave it in the beginning power, to act with more vigour and reſolution, then former Parlia<g ref="char:EOLhyphen"/>ments
+<pb n="7" facs="tcp:112859:4" rendition="simple:additions"/>
+had done, And to ſet upon a Reformation of the great diſorders, both in the Eccleſiaſticall, and Civill ſtate; which drew a more particular envy, and <hi>odium</hi> upon it, then was uſuall to the generallity of Parliaments; and was a cauſe, that thoſe, who had ſwallowed up in their thoughts, our Religion and Li<g ref="char:EOLhyphen"/>berties, and now ſaw themſelves defeated by this means, bended all their indeavours, and raiſed all their forces to deſtroy it.</p>
+            <p>Firſt, Whileſt the Scottiſh Army remained here, they indeavoured to incenſe the two Nations, and en<g ref="char:EOLhyphen"/>gage their Armies one againſt the other; that in ſuch a confuſion as needs muſt have followed, the Parlia<g ref="char:EOLhyphen"/>ment might not be able to ſit; and thoſe forces de<g ref="char:EOLhyphen"/>ſtroying one another, might open ſome opportunity for them to gain their ends upon both Kingdoms; and that then, as their need, ſo the being of the Parliament might ceaſe: The wiſedome of the Parliament pre<g ref="char:EOLhyphen"/>vented that miſchief, and compoſed thoſe great diffe<g ref="char:EOLhyphen"/>rences betwixt the King and the Kingdom of <hi>Scotland.</hi> That plot failing, they endeavoured to turn the Eng<g ref="char:EOLhyphen"/>liſh Army againſt the Parliament: This was diſcove<g ref="char:EOLhyphen"/>red, the chief Actors fled, and the danger avoided. Then they labour to ſtir up the Scottiſh Army againſt us; But ſuch was the faithfulneſſe and affection of thoſe our Brethren, that they could not effect it.</p>
+            <p>After this they carry the King into <hi>Scotland,</hi> to try if a party could be there raiſed, to ſuppreſſe firſt, the
+<pb n="8" facs="tcp:112859:5"/>
+good party in that Kingdom, and ſo ſtrengthned from thence, the better to compaſſe their intended purpoſe here. At the ſame time, The Rebellion in <hi>Ireland,</hi> an egg likewiſe of their hatching, breaks out. But their plot failed in <hi>Scotland;</hi> yet upon hopes of ſucceſſe there, Such preparatives were here, and ſuch recourſe of ill affected Perſons to this Town, That the Parlia<g ref="char:EOLhyphen"/>ment thought it neceſſary for their own ſecurity, to have a guard. The King upon His return inſtantly diſmiſſes that guard, and puts another upon us, which produced ſuch ill effects, as we were glad to diſmiſſe them, and rather run any hazard then have ſuch a guard.</p>
+            <p>Thus left naked, Preſently ſome Members of both Houſes are unjuſtly charged with Treaſon; and the King comes with a Troop of Cavaliers to the Houſe of Commons, to fetch thoſe away by force, whom be had cauſed to be ſo unjuſtly accuſed; The greateſt violation of the priviledges of Parliament, that ever was attempted, and ſo manifeſt a deſtructi<g ref="char:EOLhyphen"/>on of the right of the Subject, which is only pre<g ref="char:EOLhyphen"/>ſerved by Parliament, That the City of <hi>London</hi> took a pious and generous Reſolution, to guard the Parlia<g ref="char:EOLhyphen"/>ment themſelves. Which ſo grieved and enraged thoſe wicked Perſons, who had engaged the King in that laſt, and all thoſe other deſignes and practiſes againſt the Parliament, That they make him forſake <hi>White<g ref="char:EOLhyphen"/>hall,</hi> under pretence that His Perſon was there in dan<g ref="char:EOLhyphen"/>ger, A ſuggeſtion as falſe as the Father of lyes can invent.</p>
+            <p>
+               <pb n="9" facs="tcp:112859:5"/>Then do they work upon him, and upon the Queen, perſwade her to retire out of the Kingdom, and carry him further and further from the Parliament, and ſo poſſeſſe him with an hatred of it, that they cannot put words bitter enough into his mouth, to expreſſe it upon all occaſions; They make him croſſe, oppoſe, &amp; inveigh againſt all the proceedings of Parliament; encourage and protect all thoſe who will affront it; take away all power and authority from it, to make it contemptible and of leſſe eſteem then the meaneſt Court; draw away the Members, commanding them to come to him to <hi>York,</hi> and in ſtead of diſcharging their duty in the ſer<g ref="char:EOLhyphen"/>vice of the Parliament, to contribute their advice and aſſiſtance to the deſtruction of it; endeavour to poſſeſſe the people, that the Parliament will take away the Law, and introduce an Arbitrary Government; A thing which every honeſt Morall man abhors, much more the Wiſdom, Juſtice, and Piety of the two Houſes of Par<g ref="char:EOLhyphen"/>liament; and in truth ſuch a charge, as no Rationall man can beleeve, It being unpoſſible ſo many ſeverall per<g ref="char:EOLhyphen"/>ſons, as the two Houſes of Parliament conſiſt of, about ſix hundred, and in either Houſe all of equall power, ſhould all of them, or at leaſt the <hi>major</hi> part, agree in Acts of Will and Tyrannie, which make up an Arbi<g ref="char:EOLhyphen"/>trary Government; and moſt improbable, that the No<g ref="char:EOLhyphen"/>bility, and chief Gentry of this Kingdom, ſhould con<g ref="char:EOLhyphen"/>ſpire to take away the Law, by which they enjoy their Eſtates, are protected from any Act of Violence, and Power, and differenced from the meaner ſort of peo<g ref="char:EOLhyphen"/>ple, with whom otherwiſe they would be but fellow-ſervants.</p>
+            <p>To make all this good upon the Parliament; and ei<g ref="char:EOLhyphen"/>ther
+<pb n="10" facs="tcp:112859:6"/>
+make the Kingdom beleeve it, or ſo awe it, as no body ſhall dare ſay the contrary; force is prepared, men are levied, and the Malignant party of the Kingdom, as was before ſpecified, that is, Papiſts, the Prelaticall Clergie, Delinquents, and that part of the Nobility and Gentry, which either fear Reformation, or ſeek preferment by betraying their Country, to ſerve the Court, have combined, to bury the happineſſe of this Kingdom, in the ruine of this Parliament; and by for<g ref="char:EOLhyphen"/>cing it, to cut up the freedom of Parliament by the root; and either take all Parliaments away, or which is worſe, make them the inſtruments of ſlavery, to con<g ref="char:EOLhyphen"/>firm it by Law, and leave the diſeaſe incurable.</p>
+            <p>That done, then come they to crown their work, and put that in execution, which was firſt in their inten<g ref="char:EOLhyphen"/>tion, that is, the changing of Religion into Popery and Superſtition.</p>
+            <p>All this while the two Houſes of Parliament have with all duty and loyalty ſtill applyed themſelves unto His Majeſty, and laboured by humble prayers, and cleer and convincing Reaſons and Arguments in ſeverall Pe<g ref="char:EOLhyphen"/>titions, to ſatisfie him of their intentions, the juſtneſſe of their proceedings, their deſire of the ſafety of His Royall Perſon, and of the Peace of the Kingdom.</p>
+            <p>And only to preſerve that Peace, and prevent the per<g ref="char:EOLhyphen"/>nicious practiſes of theſe Incendaries, (ſuch as the Lord <hi>Digby,</hi> who at firſt perſwaded the King to get into ſome ſtrong place, that He might there protect thoſe, whom he ſtiled the Kings Servants, but in truth ſuch as do divide Him from His Parliament and Kingdom, and might be revenged upon His Parliament, where he ſaid Traitors bare that ſway, And who in the mean time
+<pb n="11" facs="tcp:112859:6"/>
+promiſed hee would do him ſervice abroad, which by his own Letters appears to be the procuring of ſupplies againſt the Kingdom and Parliament, with which hee himſelf ſaid he would return, as ſince he hath done diſ<g ref="char:EOLhyphen"/>guiſed, with ſtore of Arms, in the Ship called THE PROVIDENCE; And who had attempted upon the Kings firſt going from <hi>White Hall,</hi> to raiſe ſome numbers of horſe and foot, under the colour of a Guard for His Majeſtie to be the foundation of an Ar<g ref="char:EOLhyphen"/>my againſt the Parliament, which then failing, hath ſince taken effect, and ſhews what was then in their thoughts, before <hi>Hull,</hi> or the <hi>Militia,</hi> or any thing elſe of that nature was in Queſtion) the Parliament thought fit to ſecure <hi>Hull,</hi> leaſt it might be a receptacle of ſuch ill-affected perſons, and of what aid could be gotten from Forraigne parts; the Fleet under the Earl of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> to defend the Kingdom, and prevent ſuch miſ<g ref="char:EOLhyphen"/>chief from abroad; the Magazin of Arms, that they ſhould not be imployed againſt Us; and the <hi>Militia</hi> of the Kingdom in ſuch hands, as the Parliament might confide in, to ſuppreſſe commotions within our ſelves.</p>
+            <p>And how neceſſary all this was to be done, the ſuc<g ref="char:EOLhyphen"/>ceeding deſignes and practiſes upon them, all do ſuffi<g ref="char:EOLhyphen"/>ciently manifeſt; And great cauſe hath the whole King<g ref="char:EOLhyphen"/>dom to bleſſe God, who put it into the heads and hearts of the Parliament, to take care of theſe particulars. For were theſe pernicious perſons about the King Maſters of them, how eaſie would it be for them to maſter the Parliament, and Maſter the Kingdom? And what could we expect but ruine and deſtruction from ſuch Maſters, who make the King in this manner revile, and deteſt Us and our Actions; ſuch, who have embarqued
+<pb n="12" facs="tcp:112859:7"/>
+Him in ſo many deſignes to overthrow this Parlia<g ref="char:EOLhyphen"/>ment; ſuch, who have ſo long thirſted to ſee Religion and Libertie confounded together?</p>
+            <p>Let the world now judge, what more could be done by Us, then we have done to appeaſe His Majeſtie, and regain His Grace and Favour, if (after the preſenting of ſuch a Petition as the laſt was, ſo full of ſubmiſſe, humble, affectionate deſires of Peace, ſo full of Duty and Loyalty, as we thought malice it ſelf could nor have excepted againſt it, And having received ſo ſharpe a re<g ref="char:EOLhyphen"/>turn, ſuch expreſſions of birterneſſe, a juſtification and avowed protection of Delinquents from the hand of Juſtice, Demands of ſo apparent danger, ſuch manife<g ref="char:EOLhyphen"/>ſtations of an intention to deſtroy Us, and with Us the whole Kingdom; and this more clearly evidenced by their ſubſequent Actions, even ſince theſe Propoſitions have been made unto Us from His Majeſtie, overrun<g ref="char:EOLhyphen"/>ning ſeverall Counties, compelling the Trained Bands by force to come in, and joyne with them, or diſarming them, and putting their Arms into the hands of lewd and deſperate perſons, thereby turning the Arms of the Kingdom againſt it ſelf) it be not fit for Us, not only not to yeeld to what is required, but alſo to make further proviſion, for the preſervation of Our ſelves, and of thoſe who have ſent Us hither, and intruſted Us with all they have, Eſtate, Libertie, and Life, and that which is the life of their lives, their Religion, and even for the ſafety of the Kings Perſon now environed by thoſe, who carry Him upon His own ruine, and the de<g ref="char:EOLhyphen"/>ſtruction of all His People: At leaſt to give them warning, that all this is in danger; That if the King may force this Parliament, they may bid farewell to
+<pb n="13" facs="tcp:112859:7"/>
+all Parliaments, from ever receiving good by them; and if Parliaments be loſt, they are loſt: Their Laws are loſt, as well thoſe lately made, as in former times, all which will be cut in ſunder, with the ſame ſword now drawn for the deſtruction of this Parliament.</p>
+            <p>Then, If they will not come to help the Parliament, and ſave themſelves, though both they and We muſt periſh, yet have We diſcharged Our conſciences, and delivered Our Soules; and We will look for a reward in Heaven, ſhould We be ſo ill required upon Earth, by thoſe of whom We have ſo well deſerved; which We cannot feare, having found upon all occaſions ſuch reall Demonſtrations of their love and affection, and of their right underſtanding and apprehenſion of Our and their common danger; Eſpecially now, that the Queſtion is ſo clearly ſtated, and that it appeareth that neither <hi>Hull,</hi> nor the <hi>Militia,</hi> nor the Magazin, are the grounds of the war, w<hi rend="sup">ch</hi> is ſo furiouſly driven on againſt us, by a Malignant party of Papiſts, thoſe who call themſelves Cavaliers, and other ill-affected perſons; but ſo far forth onely, As the Parliament and all the Members of both Houſes, &amp; all other perſons who have ſhewed themſelves forward for the defence of the ſin<g ref="char:EOLhyphen"/>cerity of Religion, the Laws and Liberties of the King<g ref="char:EOLhyphen"/>dom, and the juſt power and Priviledges of Parliament, are preſerved and ſecured thereby.</p>
+            <p>For the many deſignes upon the Parliament above mentioned, The attempts to be poſſeſſed of <hi>Hull,</hi> and of the Magazine, by ſending thither Captain <hi>Leg</hi> a De<g ref="char:EOLhyphen"/>linquent to the Parliament, for having had a hand in the treaſonable practiſe to bring up the Army againſt us, and the Earl of <hi>Newcastle</hi> in a diſguiſed habit, which
+<pb n="14" facs="tcp:112859:8"/>
+was a purſuance of the Lord <hi>Digbies</hi> advice, and the en<g ref="char:EOLhyphen"/>deavouring to raiſe forces under pretence of a Guard to the Kings Perſon in the winter, All this before we medled with <hi>Hull,</hi> or Magazin, or <hi>Militia,</hi> ſhew plainly that Our Act in ſecuring them, was not the cauſe of the Kings taking up Arms, and ex<g ref="char:EOLhyphen"/>erciſing hoſtility upon His Loving and Loyall Sub<g ref="char:EOLhyphen"/>jects, which was in the thoughts and endeavours of thoſe about His Majeſty, who then had, and ſtill have the greateſt influence upon His Councells, before We thought of <hi>Hull,</hi> or <hi>Militia,</hi> or any thing elſe of that nature; And, that our reſigning of them now, would not prevail with Him to make him lay down His Arms, and returne to His Parliament, and grati<g ref="char:EOLhyphen"/>fie the earneſt and longing deſires of His People, to en<g ref="char:EOLhyphen"/>joy His preſence, favour, and protection: But that, if He could recover (either by Our Reſignation, or any other way) pieces of ſo much advantage to Him, and weakning to Us, uſe would be made of them to Our in<g ref="char:EOLhyphen"/>finite prejudice and ruine, The intention being ſtill the ſame, not to reſt ſatisfied with having <hi>Hull,</hi> or taking away the Ordinance of the <hi>Militia;</hi> But, to deſtroy the Parliament, and be maſters of Our Religion and Liberties, To make Us ſlaves, and alter the Govern<g ref="char:EOLhyphen"/>ment of this Kingdom, and reduce it to the condition of ſome other Countries, which are not governed by Parliaments, and ſo by Laws, but by the will of the Prince, or rather of thoſe who are about him.</p>
+            <p>Yet willingly would we give His Majeſtie ſatisfa<g ref="char:EOLhyphen"/>ction in theſe particulars (and ſo have we offered it) could we be ſecured, that diſarming our ſelves, and de<g ref="char:EOLhyphen"/>livering them up to His Majeſtie, (as the ſword of Ju<g ref="char:EOLhyphen"/>ſtice
+<pb n="15" facs="tcp:112859:8"/>
+is already put into the hands of divers Popiſh, and other ill-affected perſons, by putting them into the Commiſſions of the Peace, and other Commiſſions, and putting out others that are well-affected) ſo wee ſhould not for our own deſtruction put the Military ſword into the hands of thoſe evil Councellours, and ill-affected perſons, who are ſo prevalent with His Ma<g ref="char:EOLhyphen"/>jeſtie, Papiſts many of them, or very late Converts, by taking the Oaths of Supremacie and Allegiance, for which, they may very well have a diſpenſation, or In<g ref="char:EOLhyphen"/>dulgence, to be enabled thereby to promote ſo great a ſervice for the Popiſh cauſe, as to deſtroy the two Houſes of Parliament, and through their ſides, the Proteſtant Religion.</p>
+            <p>But we have too juſt cauſe to beleeve and know, con<g ref="char:EOLhyphen"/>ſidering thoſe continued deſignes upon Us, and the compoſition of the Kings Army, and of His Counſell at this time, that theſe things are deſired, to be made uſe of to Our deſtruction, and the deſtruction of that which wee are bound by Our Proteſtation to de<g ref="char:EOLhyphen"/>fend, and woe to Us if We do it not, at leaſt do Our utmoſt endeavours in it, for the diſcharge of Our Du<g ref="char:EOLhyphen"/>ties, and the ſaving of our Soules, and leave the ſucceſſe to God Almightie.</p>
+            <p>Therefore we the Lords and Commons are reſolved to expoſe our Lives and Fortunes for the defence and maintenance of the true Religion, the Kings Perſon, Honour and Eſtate, the Power and Priviledge of Par<g ref="char:EOLhyphen"/>liament, and the juſt Rights, and Liberties of the Sub<g ref="char:EOLhyphen"/>ject, And for the prevention of that miſchievous deſign, which gives motion to all the reſt, and hath been ſo
+<pb n="16" facs="tcp:112859:9"/>
+ſtrongly purſued theſe many yeers, The altering of our Religion, which if God in his mercy had not miracu<g ref="char:EOLhyphen"/>louſly diverted, long ago had we been brought to the condition of poor <hi>Ireland,</hi> weltring in our own blood and confuſion.</p>
+            <p>And we do here require All thoſe who have any ſence of piety, honour, or compaſſion, to help a diſtreſ<g ref="char:EOLhyphen"/>ſed ſtate, eſpecially ſuch as have taken the Proteſtation, and are bound in the ſame duty with us unto their God, their King and Country, To come into our aid, and aſſiſtance: This being the true cauſe for which we raiſe an Army, under the Command of the Earl of <hi>Eſſex,</hi> with whom in this Cauſe we will Live and Die.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
